@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SDU抢课</string>
+    <string name="head">本软件的宗旨是将剩余的课程及时送到需要的人手里，支持后台运行，单击通知栏按钮即可停止
+            。本软件只使用网络权限，不窃取用户任何信息，开源代码见下，但还是提醒同学们不要轻易安装来历不明的APP。</string>
+    <string name="github">代码开源：</string>
+</resources>
